@@ -101,7 +101,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
     </div>
 ```
   
-- [x] Buttons
+- [x] **Buttons**
 
 ```html
 <div class="container">
@@ -119,10 +119,10 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 
 
 - [x]  Typography
-- [ ]  Responsive Font sizes
+- Responsive Font sizes
 
 - [x]  Images
-- [ ]  Responsive images
+- Responsive images
 
 ```html
 <div class="container">
@@ -150,7 +150,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 
 - Use `.clearfix` after float
 
-- [x]  Utilities
+- [x]  **Utilities**
 - [ ]  **Tailwind CSS** is *utility-first* framework.
 - [ ]  Bootstrap also has Utilities capabilities.
 
@@ -175,36 +175,47 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.3/getting-starte
 - Text utility
 - Visibility utility
 
-- [x] Tables
+- [x] **Tables**
 
-- [x] Alerts 
+- [x] **Alerts** 
 
-- [x] Toasts
+- [x] **Toasts**
 
-- [x] Navs and Navbars
+- [x] **Navs and Navbars**
 - [ ] Tabs
 - [ ] Pills
 - [ ] Side Nav 
 
-- [x] 
+- [x] **Icons**
 
-- [x]
+- [x] **Forms**
 
-- [x]
+- [x] **Other Components**
+- [x] Accordians
+- [x] Badges
+- [x] Breadcrumb
+- [x] Button groups
+- [x] Dropdowns
+- [x] List groups
+- [x] Modal
+- [x] Popovers
+- [x] Tooltip
+- [x] Spinners
+- [x] Progress
+- [x] Scrollspy
 
-- [x] 
+[Landing Page Demo](./index.html)
 
-- [x]
-
-- [x]
-
-- [x]
-
-- [x]
+[Free image resource](https://www.picsum.photos)
 
 
-
-
-
+#### Publish the website
+- [x] Use the command line of the project ``
+- Install [MDB Go](https://www.mdbgo.com) using `npm install -g mdb-cli`
+- Your page should be in `index.html`
+- Type `mdb publish`
+- Choose a package manager `npm`
+- Make a package name e.g. `bootstrap tutorial`
+- 
 
 
